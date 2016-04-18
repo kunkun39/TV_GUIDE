@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+
+    <settings>
+        <setting name="sleep">100</setting>
+    </settings>
+
+    <urls>
+        <url value="http://localhost:8080/marketapp/appdetails.html">
+            <parameters>
+                <parameter name="appId">
+                    <values>
+                        <value set="1">result1</value>
+                        <value set="2">result2</value>
+                        <value set="3">result3</value>
+                    </values>
+                </parameter>
+            </parameters>
+        </url>
+        <url value="http://localhost:8080/marketapp/boxrecommend.html">
+            result2
+        </url>
+    </urls>
+
+</resources>

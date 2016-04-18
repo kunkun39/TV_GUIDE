@@ -1,0 +1,12 @@
+#--正式的数据
+SET FOREIGN_KEY_CHECKS=0;
+
+
+
+#--测试的数据
+
+
+
+SET FOREIGN_KEY_CHECKS=1;
+
+
